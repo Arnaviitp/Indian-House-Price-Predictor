@@ -43,28 +43,6 @@ The predictions are generated in real time and displayed in a clean, interactive
 ├── README.md           # Project documentation
 ```
 
----
-
-## 🧪 How to Run Locally
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Arnaviitp/Indian-House-Price-Predictor.git
-   cd Indian-House-Price-Predictor
-   ```
-
-2. Install the dependencies  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app  
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
 ## 📈 Future Enhancements
 
 - Add region-wise location data for geospatial predictions  
@@ -77,7 +55,7 @@ The predictions are generated in real time and displayed in a clean, interactive
 ## 🙋‍♂️ Author
 
 **Arnav Anand**  
-2nd Year BSc (CSDA), IIT Patna  
+2nd Year Computer Science Student, IIT Patna  
 [GitHub](https://github.com/Arnaviitp) • [LinkedIn](https://linkedin.com/in/arnaviitp)
 
 ---
